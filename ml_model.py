@@ -8,9 +8,9 @@ def model1():
 def model2():
     print("added code for model 2")
 
-def model3():
-    print("added code for model 3")
-
+def sum(a,b):
+    c=a+b
+    return c
 
 print("model 1 is performing best")
 
