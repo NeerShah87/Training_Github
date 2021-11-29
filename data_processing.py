@@ -7,6 +7,12 @@ b = 7
 
 def sum(a,b):
     c = a + b
-    return a
+    return c
 
-print ("added a new function which is not correct")
+print ("Sum function")
+
+def multiply(a,b):
+    d = a*b
+    return d
+
+print ("multiply function")
