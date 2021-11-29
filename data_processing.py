@@ -16,3 +16,9 @@ def multiply(a,b):
     return d
 
 print ("multiply function")
+
+def division(a,b):
+    e = a/b
+    return b
+
+print("division function")
